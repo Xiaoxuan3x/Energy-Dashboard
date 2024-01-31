@@ -1,0 +1,21 @@
+/* Dashboard.css */
+.charts-section {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .chart-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+  }
+  
+  .chart {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .percentage-section {
+    text-align: center;
+  }
+  
