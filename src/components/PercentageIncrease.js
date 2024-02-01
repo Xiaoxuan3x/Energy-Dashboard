@@ -1,5 +1,5 @@
 import React from 'react';
-import './PercentageIncrease.css'; // Import the CSS file for styling
+import './PercentageIncrease.css'; 
 
 const PercentageIncrease = ({ solarValues, electricValues }) => {
   const calculatePercentageIncrease = (values) => {
