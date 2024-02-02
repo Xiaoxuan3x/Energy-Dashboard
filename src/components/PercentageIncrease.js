@@ -9,7 +9,7 @@ const PercentageIncrease = ({ solarValues, electricValues }) => {
 
   return (
     <div className="percentage-container">
-      <h2>Monthly Percentage Increase</h2>
+      <h2>Change Compared With Last Month</h2>
       <p>Solar: {calculatePercentageIncrease(solarValues)}%</p>
       <p>Electric: {calculatePercentageIncrease(electricValues)}%</p>
     </div>
